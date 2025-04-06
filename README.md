@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name](https://github.com/silverstone217)
+# Hello, I'm [Silver](https://github.com/silverstone217)
 [![MasterHead](https://example.com/your_profile_image)](https://github.com/your_username)
 
 ## About Me
@@ -17,16 +17,16 @@ I'm a passionate [developer](https://example.com/your_website) interested in web
 - **Twitter** : [https://twitter.com/your_twitter_name](https://twitter.com/your_twitter_name)
 
 ## My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverstone217&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverstone217&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=silverstone217&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Projects
-- [Project 1](https://github.com/your_username/project1)
-- [Project 2](https://github.com/your_username/project2)
+- [Project 1](https://github.com/silverstone217/litchell-black-apparel)
+- [Project 2](https://github.com/silverstone217/fideliz)
 
 ## Contact Me
 If you have questions or want to collaborate on a project, feel free to reach out via [my email](mailto:stephuni35@gmail.com).

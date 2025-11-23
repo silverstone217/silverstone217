@@ -37,8 +37,8 @@ I'm a passionate [developer]([https://example.com/your_website](https://stephane
 
 ## My Social Networks
 - **LinkedIn** : [https://linkedin.com/in/your_linkedin_link](https://linkedin.com/in/stéphane-giggs-mfuni-32750a381)
-- **Twitter** : [https://twitter.com/silverstone217](https://twitter.com/your_twitter_name)
-- **Instagram** : [https://instagram.com/steph_jay217](https://instagram.com/your_instagram_name)
+- **Twitter** : [https://twitter.com/silverstone217](https://twitter.com/silverstone217)
+- **Instagram** : [https://instagram.com/steph_jay217](https://instagram.com/steph_jay217)
 
 ## My GitHub Stats
 [![Silver's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverstone217&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

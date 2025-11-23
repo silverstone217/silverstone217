@@ -48,9 +48,9 @@ I'm a passionate [developer]([https://example.com/your_website](https://stephane
 [![trophy](https://github-profile-trophy.vercel.app/?username=silverstone217&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Projects
-- [Project 1](https://github.com/silverstone217/delivers)
-- [Project 2](https://github.com/silverstone217/otekis)
-- [Project 3](https://github.com/silverstone217/slash)
+- [Delivers](https://github.com/silverstone217/delivers)
+- [Otekis](https://github.com/silverstone217/otekis)
+- [Slash](https://github.com/silverstone217/slash)
 
 ## Contact Me
 If you have questions or want to collaborate on a project, feel free to reach out via [my email](mailto:stephuni35@gmail.com).

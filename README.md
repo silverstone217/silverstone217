@@ -15,7 +15,6 @@ I'm a passionate [developer]([https://example.com/your_website](https://stephane
 
 - **Frameworks and Tools** :  
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
   ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
   ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo&logoColor=white)

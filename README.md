@@ -1,6 +1,6 @@
 # Hello, I'm [Silverstone217](https://github.com/silverstone217)
 
-[![MasterHead](https://github.com/TON_USERNAME/TON_REPO/raw/main/assets/ton_image.jpg)](https://github.com/silverstone217)
+[![MasterHead](https://github.com/silverstone217/silverstone217/masterhead.jpg)](https://github.com/silverstone217)
 
 
 ## About Me
